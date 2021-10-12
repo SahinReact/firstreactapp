@@ -1,0 +1,18 @@
+.MainNav {
+  text-align: center;
+}
+.NavContatenar {
+  box-sizing: border-box;
+}
+.NavContatenar button {
+  font-size: 20px;
+  margin-left: 20px;
+  color: rgb(255, 255, 255);
+  background-color: rgb(255, 255, 255);
+  border: 2px solid rgb(0, 175, 152);
+  border-radius: 15%;
+}
+.NavContatenar button:hover {
+  background-color: rgb(60, 226, 129);
+  color: rgb(228, 109, 72);
+}
