@@ -1,9 +1,9 @@
-body {
+/*body {
   background-image: linear-gradient(to right, red, rgb(27, 219, 178));
-}
-/* body {
+}*/
+ body {
   background-image: linear-gradient(to left, #2196f3, #e91e63);
-} */
+} 
 header {
   position: relative;
   max-width: 100%;
